@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "synclify": {
+      "type": "http",
+      "url": "https://app.synclify.ai/mcp/directory"
+    }
+  }
+}

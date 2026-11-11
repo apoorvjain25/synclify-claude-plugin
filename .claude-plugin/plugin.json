@@ -1,0 +1,14 @@
+{
+  "name": "synclify",
+  "displayName": "Synclify",
+  "description": "Puts your whole Instagram in one place: content, DMs, brand deals, invoices, analytics. You ask, the assistant does it, and it checks with you before it changes anything.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Synclify",
+    "email": "support@synclify.ai",
+    "url": "https://synclify.ai"
+  },
+  "homepage": "https://synclify.ai/apps/claude",
+  "license": "MIT",
+  "keywords": ["instagram", "social media", "analytics", "content planning", "brand deals", "invoices", "creators"]
+}
