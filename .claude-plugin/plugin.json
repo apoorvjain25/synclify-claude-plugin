@@ -9,6 +9,8 @@
     "url": "https://synclify.ai"
   },
   "homepage": "https://synclify.ai/apps/claude",
+  "privacyPolicyUrl": "https://synclify.ai/privacy",
+  "icon": ".claude-plugin/icon.png",
   "license": "MIT",
   "keywords": ["instagram", "social media", "analytics", "content planning", "brand deals", "invoices", "creators"]
 }
